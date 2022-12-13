@@ -1,0 +1,16 @@
+.fila {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    padding: 5px;
+    gap: 15px;
+}
+
+.columna {
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
